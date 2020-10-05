@@ -32,7 +32,7 @@ Esta clase será Lunes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/ml2_class/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/deep_learning/
 
 ## Horas de oficina
 
