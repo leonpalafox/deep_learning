@@ -18,17 +18,17 @@
 
 # Introduccion
 
-En esta clase veremos técnicas avanzadas de Machine Learning y sus aplicaciones en la industria. Conoceremos tecnicas mas avanzadas de aprendizaje supervisado y no supervisado, asi como de aprendizaje reforzado.
+En esta clase veremos los principios del área de Aprendizaje Profundo (Deep Learning), conocer casos de uso, sus principios de funcionamiento y las diferentes aplicaciones que tiene.
 
 # Objetivo
 
-Los estudiantes serán capaces de implementar y validar diferentes técnicas de Machine Learning en diferentes sets de datos relacionados a distintos campos. Los estudiantes conoceran la diferencia entre aprendizaje reforzado y otros tipos de aprendizaje.
+Los estudiantes serán capaces de implementar y validar diferentes técnicas de Aprendizaje Profundo, podran utilizar la libreria de Python llamada Tensorflow, y podran aplicar aprendizaje profundo a diferentes problemas.
 
 # Estructura del Curso
 
 ## Horas de clase
 
-Esta clase será Miércoles de 7:00 p.m a 10:00 p.m.
+Esta clase será Lunes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
@@ -36,7 +36,7 @@ Clases, tareas, temario y políticas de calificaciones se encuentran disponibles
 
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Mi casa), o haciendo una cita al correo electornico lpalafox@up.edu.mx.
+Estaré disponible antes de la clase en mi oficina (Mi casa), o haciendo una cita al correo electronico leon.palafox@gmail.com
 
 # Evaluacion
 
@@ -61,27 +61,16 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Temario
 
 1. Introducción
-2. Bases teóricas
-3. Aprendizaje reforzado.
-4. Redes Neuronales
-5. Análisis Bayesiano de Datos
-6. Examen Final y Entrega de Proyectos
+2. 
 
 
 # Slides
 
-- [Clase 1](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_1.pptx)
-- [Clase 2](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_2.pptx)
-- [Clase 3](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_3.pptx)
-- [Clase 4](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_4.pptx)
-- [Clase 5](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_5.pptx)
-- [Clase 6](https://github.com/leonpalafox/ml2_class/blob/master/Slides/UPML22020_6.pptx)
+
 
 
 # Código
 
-- [Reinforcement Learning](https://colab.research.google.com/drive/1UqXDKrEKhRX8qRh0Q0k8_UWUvXsSTrJ8)
-- [Inferencia Bayesiana](https://colab.research.google.com/drive/12plBBSd1rFwNcNBAhvxd_6HZjfcpSI9F?usp=sharing)
 
 # Datos
 
@@ -90,9 +79,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-# Pizarrones de Jamboard
 
-- [Clase 1](https://jamboard.google.com/d/1R0VUOH8WcOBT1Ys6tJG5hcZR8aYiPOZ9kDh2eTlZQVs/viewer)
+# Pizarrones de Jamboard
 
 
 # Libros de texto
@@ -100,10 +88,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 El curso no requiere de libros de texto adjuntos, sin embargo, los siguientes libros son útiles para dar seguimiento al curso:
 
 - [Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006.](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-- [Rogers, Simon, and Mark Girolami. A first course in machine learning. CRC Press, 2011.](http://www.dcs.gla.ac.uk/~srogers/firstcourseml/) (Esta en la biblioteca de la UP :D)
-- [James, Gareth, et al. An introduction to statistical learning. New York: Springer, 2013.](http://www-bcf.usc.edu/~gareth/ISL/)
-- [Petersen, Kaare Brandt, and Michael Syskind Pedersen. The matrix cookbook. Technical University of Denmark 7 (2008): 15.](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-- [Sutton, Richard S., and Andrew G. Barto. "Reinforcement learning: An introduction." (2011).](http://incompleteideas.net/book/the-book-2nd.html)
+- [Bengio, Yoshua and Goodfellow, Ian. Deep Learning, 2016](https://www.deeplearningbook.org/)
+
 
 
 # Material especial para la clase
